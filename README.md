@@ -4,5 +4,5 @@
 * 10:00 research social media applications for reference
 * 10:46 videos on what is needed for social network
 * 11:42: research and design logo
-* 9:30: try out react-spring library, review docs + examples
-* 1:20: implement react-spring library in sample project
+* 12:40 research what framework works best in c# for social media apps 
+* 2:18: logo design
