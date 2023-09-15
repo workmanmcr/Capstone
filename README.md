@@ -7,3 +7,4 @@
 * 12:40 research what framework works best in c# for social media apps 
 * 2:18: logo design
 * 3:11 research hot incorporate profile pictures
+* 3:43 look for more Api for news and events and messaging 
