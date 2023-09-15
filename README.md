@@ -6,3 +6,4 @@
 * 11:42: research and design logo
 * 12:40 research what framework works best in c# for social media apps 
 * 2:18: logo design
+* 3:11 research hot incorporate profile pictures
