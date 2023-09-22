@@ -8,3 +8,7 @@
 * 2:18: logo design
 * 3:11 research hot incorporate profile pictures
 * 3:43 look for more Api for news and events and messaging 
+
+#### firday 09/22
+
+* 8:05 look up refrences amd neccesisties 
