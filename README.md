@@ -12,3 +12,4 @@
 #### firday 09/22
 
 * 8:05 look up refrences amd neccesisties 
+* building skeleton
