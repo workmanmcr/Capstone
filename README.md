@@ -12,4 +12,6 @@
 #### firday 09/22
 
 * 8:05 look up refrences amd neccesisties 
-* building skeleton
+* 9:40 building skeleton
+* 10:48 adding functions 
+* 12:07 debugging 
