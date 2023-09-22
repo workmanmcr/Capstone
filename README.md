@@ -16,3 +16,4 @@
 * 10:48 adding functions 
 * 12:07 debugging 
 * 12:40 start building api
+* 2:00 research on api building
