@@ -11,9 +11,14 @@
 
 #### firday 09/22
 
-* 8:05 look up refrences amd neccesisties 
+* 8:05 look up refrences and neccesisties 
 * 9:40 building skeleton
 * 10:48 adding functions 
 * 12:07 debugging 
 * 12:40 start building api
 * 2:00 research on api building
+
+
+#### saturday 09/23
+
+* 8:45 work on api
