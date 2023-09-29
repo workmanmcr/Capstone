@@ -22,3 +22,7 @@
 #### saturday 09/23
 
 * 8:45 work on api
+
+### friday 09/28
+
+* 8:20 work on styling 
