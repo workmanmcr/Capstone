@@ -28,3 +28,4 @@
 * 8:20 work on styling 
 * 11:00 applying game api
 * 2:05 debug api
+* 4:08 more debuging
