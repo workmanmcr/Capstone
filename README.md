@@ -26,3 +26,4 @@
 ### friday 09/28
 
 * 8:20 work on styling 
+* 11:00 applying game api
